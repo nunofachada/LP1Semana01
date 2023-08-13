@@ -10,4 +10,12 @@ Now a list:
 - Four
 - Five
 
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
 Finally it's over!
